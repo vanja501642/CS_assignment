@@ -11,4 +11,7 @@ Part 2 deals with the LSH step: minhashing, hashing and identifying candidate pa
 Part 3 deals with the Multi-component Similarity Method<br />
 Part 4 calculates the pair completeness. pair quality and $F_{1}^{*}$-measure after LSH.<br />
 Part 5 performs hierarchical clustering by means of the python package SciPy<br />
-Part 6 calculates the $F_{1}$-measure after MSM
+Part 6 calculates the $F_{1}$-measure after MSM<br />
+<br />
+All the parts are found in CS_assignment_final.py<br />
+To run the code, pull the .py file from GitHub and run that file. 
