@@ -15,3 +15,6 @@ Part 6 calculates the $F_{1}$-measure after MSM<br />
 <br />
 All the parts are found in CS_assignment_final.py<br />
 To run the code, pull the .py file from GitHub and run that file. 
+<br />
+<br />
+Programming buddy: Emre Yildirim (472763)
