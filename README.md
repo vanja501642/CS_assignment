@@ -6,9 +6,9 @@ large number of products and pairs of these that need to be considered. By scali
 have a slightly less effective method while improving greatly on its efficiency. 
 Using LSH as a pre-selection of candidate pairs before applying the Multi-component Similarity Method (MSM). 
 The code is divided into 6 parts:
-Part 1 deals with loading the data and feature extraction of product codes, brands, screen sizes, refresh rates and resolutions. Creates binary vector representation of products.
-Part 2 deals with the LSH step: minhashing, hashing and identifying candidate pairs
-Part 3 deals with the Multi-component Similarity Method
-Part 4 calculates the pair completeness. pair quality and $F_{1}^{*}$-measure after LSH.
-Part 5 performs hierarchical clustering by means of the python package SciPy
+Part 1 deals with loading the data and feature extraction of product codes, brands, screen sizes, refresh rates and resolutions. Creates binary vector representation of products.<br />
+Part 2 deals with the LSH step: minhashing, hashing and identifying candidate pairs<br />
+Part 3 deals with the Multi-component Similarity Method<br />
+Part 4 calculates the pair completeness. pair quality and $F_{1}^{*}$-measure after LSH.<br />
+Part 5 performs hierarchical clustering by means of the python package SciPy<br />
 Part 6 calculates the $F_{1}$-measure after MSM
